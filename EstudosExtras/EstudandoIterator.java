@@ -28,6 +28,7 @@ public class EstudandoIterator{
         //For-each para printar
         for(var selecionado: meusCarros){
             System.out.println(selecionado.modelo + " na cor " + selecionado.cor);
+
         }
     }
 }
