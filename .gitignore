@@ -1,4 +1,4 @@
-Projetos-Java.iml
+# Arquivos do IntelliJ IDEA e compilados
 .idea/
-Projetos-Java.iml
+*.iml
 out/
