@@ -1,0 +1,4 @@
+# Arquivos do IntelliJ IDEA e compilados
+.idea/
+*.iml
+out/
